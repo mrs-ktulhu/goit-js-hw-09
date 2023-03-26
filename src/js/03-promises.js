@@ -1,3 +1,4 @@
+import '../css/common.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const formEl = document.querySelector('.form');
